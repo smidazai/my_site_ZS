@@ -1,4 +1,0 @@
----
-title: "recherche"
-editor: visual
----
