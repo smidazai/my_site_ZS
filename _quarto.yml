@@ -20,4 +20,12 @@ format:
     toc: true
     page-layout: full
 editor: visual
+# ~ additional metadata excluded for brevity ~
 
+# supplying a light ("minty") and dark ("slate") theme to toggle between
+format:
+  html:
+    theme: 
+      light: minty
+      dark: solar
+    css: styles.css
