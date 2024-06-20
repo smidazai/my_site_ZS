@@ -14,9 +14,6 @@ about:
     - text: Email
       href: mailto:zaineb.smida@insa-lyon.fr
 ---
-        
-# page content excluded for brevity ~
----
 
 # Hi there !
 
