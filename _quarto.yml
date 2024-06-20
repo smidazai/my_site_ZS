@@ -10,8 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - resources.qmd
+      - Research.qmd
+      - Teaching.qmd
 
 format:
   html:
