@@ -5,7 +5,7 @@ project:
 # ~ additional metadata excluded for brevity ~
 
 website:
-  title: "my_site_ZS"
+  title: "Zaineb Smida"
   navbar:
     left:
       - href: index.qmd
@@ -17,6 +17,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
+    page-layout: full
 editor: visual
 
