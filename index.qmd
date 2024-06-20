@@ -15,6 +15,6 @@ about:
       href: mailto:zaineb.smida@insa-lyon.fr
 ---
 
-# Hi there !
+# Bibliography
 
-Je suis actuellement ...
+Associate professor (Maître de conférences) at INSA Lyon, France, since September 2023, and a member of the PSPM team at Institut Camille Jordan.
