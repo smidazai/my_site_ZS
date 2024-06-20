@@ -1,6 +1,6 @@
 ---
 title: "Zaineb Smida"
-image: media/headshot.jpg
+image: C:/Users/Zaineb Smida/Desktop/MCF/photo_insa.jpg
 toc: false
 about: 
   template: trestles
