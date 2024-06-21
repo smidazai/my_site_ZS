@@ -2,3 +2,19 @@
 title: "Research"
 editor: visual
 ---
+
+## Publications 
+
+Z. Smida, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. *Computational Statistics and Data Analysis*.
+
+Z. Smida, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. *Journal of Nonparametric Statistics*.
+
+C. Frévent, A. Mohamed-Salem, J. Soula, Z. Smida, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. *The R Journal*.
+
+Z. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data.
+
+## On Going works 
+
+Z. Smida, M. Berrada, C. Thomas-Agnan (2023+). *Comparing mass concentrations of two marked point processes. Applications to veterinary shortage*.
+
+A. Archimbaud, Z. Smida, A. Ruiz-Gazen (2023+). *A multivariate test of unimodality*.

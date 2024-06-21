@@ -4,6 +4,20 @@
     "href": "index.html",
     "title": "Zaineb Smida",
     "section": "",
-    "text": "Associate professor (Maître de conférences) at INSA Lyon, France, since September 2023, and a member of the PSPM team at Institut Camille Jordan. I defended my Ph.D under the supervision of Ali Gannoun and Lionel Cucala at [University of Montpellier](https://www.umontpellier.fr/) in November 2021.\n\n\n\nFunctional Data Analysis\nScan Statistics\nStatistical Testing\nSpatial Statistics"
+    "text": "Associate professor (Maître de conférences) at INSA Lyon, France, since September 2023, and a member of the PSPM team at Institut Camille Jordan. I defended my Ph.D under the supervision of Ali Gannoun and Lionel Cucala at [University of Montpellier](https://www.umontpellier.fr/) in November 2021.\n\n\n\nFunctional Data Analysis\nScan Statistics (Cluster Detection)\nStatistical Testing\nSpatial Statistics\nAsymptotic Theory"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Z. Smida, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. Computational Statistics and Data Analysis.\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. Journal of Nonparametric Statistics.\nC. Frévent, A. Mohamed-Salem, J. Soula, Z. Smida, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. The R Journal.\nZ. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data."
+  },
+  {
+    "objectID": "research.html#on-going-works",
+    "href": "research.html#on-going-works",
+    "title": "Research",
+    "section": "On Going works",
+    "text": "On Going works\nZ. Smida, M. Berrada, C. Thomas-Agnan (2023+). Comparing mass concentrations of two marked point processes. Applications to veterinary shortage.\nA. Archimbaud, Z. Smida, A. Ruiz-Gazen (2023+). A multivariate test of unimodality."
   }
 ]
