@@ -10,10 +10,10 @@ css: styles.css
 
 -   Inferential statistics. *L2: Economics, Management, and ENS Cachan preparatory class*. (In French). Tutorials.
 
--   Learning mathematical techniques and tools. *L1: Economics and MIASHS*. Tutorials.
+-   Learning mathematical techniques and tools. *L1: Economics and MIASHS*. (In French).Tutorials.
 
--   Mathematics for economics and management 1 and 2. *L1: Economics and Management*. Tutorials.
+-   Mathematics for economics and management 1 and 2. *L1: Economics and Management*. (In French).Tutorials.
 
--   Mathematics 1. *L1: Economics and law*. Tutorials.
+-   Mathematics 1. (In French). *L1: Economics and law*. Tutorials.
 
     ## 
