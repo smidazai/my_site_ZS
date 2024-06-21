@@ -23,8 +23,10 @@ Associate professor (*Maître de conférences*) at INSA Lyon, France, since Sept
 
 -   Functional Data Analysis
 
--   Scan Statistics
+-   Scan Statistics (Cluster Detection)
 
 -   Statistical Testing
 
 -   Spatial Statistics
+
+-   Asymptotic Theory
