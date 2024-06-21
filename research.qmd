@@ -1,6 +1,6 @@
 ---
 title: "Research"
-format: html
+toc: false
 editor: visual
 ---
 

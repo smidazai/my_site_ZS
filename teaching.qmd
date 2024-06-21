@@ -1,5 +1,19 @@
 ---
 title: "Teaching"
+format: html
+css: styles.css
 ---
 
-# University
+##### University of Toulouse Capitole, Toulouse School of Economics
+
+-   Introduction to big data. *M1: Statistics, Econometrics, Data Science for Social Sciences*. (In English). Lectures and practicals with the R software
+
+-   Inferential statistics. *L2: Economics, Management, and ENS Cachan preparatory class*. (In French). Tutorials.
+
+-   Learning mathematical techniques and tools. *L1: Economics and MIASHS*. Tutorials.
+
+-   Mathematics for economics and management 1 and 2. *L1: Economics and Management*. Tutorials.
+
+-   Mathematics 1. *L1: Economics and law*. Tutorials.
+
+    ## 
