@@ -18,3 +18,9 @@ Z. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Te
 Z. Smida, M. Berrada, C. Thomas-Agnan (2023+). *Comparing mass concentrations of two marked point processes. Applications to veterinary shortage*.
 
 A. Archimbaud, Z. Smida, A. Ruiz-Gazen (2023+). *A multivariate test of unimodality*.
+
+# Software 
+
+-   *HDSpatialScan R package*
+
+-   *funStatTest R package*
