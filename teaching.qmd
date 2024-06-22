@@ -4,16 +4,35 @@ format: html
 css: styles.css
 ---
 
-##### University of Toulouse Capitole, Toulouse School of Economics
+#### University of Toulouse Capitole, Toulouse School of Economics
 
--   Introduction to big data. *M1: Statistics, Econometrics, Data Science for Social Sciences*. (In English). Lectures and practicals with the R software
+-   Introduction to big data. (*Master 1): Statistics, Econometrics, Data Science for Social Sciences*. (In English). Lectures and practicals with the R software
 
--   Inferential statistics. *L2: Economics, Management, and ENS Cachan preparatory class*. (In French). Tutorials.
+-   Inferential statistics. (*2d year): Economics, Management, and ENS Cachan preparatory class*. (In French). Tutorials.
 
--   Learning mathematical techniques and tools. *L1: Economics and MIASHS*. (In French).Tutorials.
+-   Learning mathematical techniques and tools. (*1st year): Economics and MIASHS*. (In French).Tutorials.
 
--   Mathematics for economics and management 1 and 2. *L1: Economics and Management*. (In French).Tutorials.
+-   Mathematics for economics and management 1 and 2. *(1st year): Economics and Management*. (In French).Tutorials.
 
--   Mathematics 1. (In French). *L1: Economics and law*. Tutorials.
+-   Mathematics 1. (*1st year): Economics and law*. (In French). Tutorials.
 
-    ## 
+#### Faculty of Medicine Montpellier-Nîmes, University of Montpellier
+
+-   Inferantial statistics 1. (*Master 1): Epidemiology, Health Data, Biostatistics.* (In french).    
+    + Lectures, tutorials and practicals with the R software
+
+-   Statistics 2. *(5th year): Speech Therapy*. Lectures, Practical work.
+
+-   Statistics 1. *(2nd year): Speech Therapy*. Lectures.
+
+-   Statistics. *("PASS") : Specific Health Access Pathway*. Tutorials.
+
+-   Office Automation-c2i. *(2nd year): DFG Medical Sciences*. Practical work.
+
+-   Computer Training. *(2nd year): Midwifery*. Practical work.
+
+#### Faculty of Sciences of Montpellier, University of Montpellier
+
+    
+
+    
