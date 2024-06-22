@@ -6,20 +6,20 @@ css: styles.css
 
 #### From September 2023 : INSA Lyon
 
-- Mathematics. *(2sd year) : SCAN Students*. Tutorials. `(In English)`.
+- Mathematics. *(2nd year) : SCAN Students*. Tutorials. `(In English)`.
 
 - Mathematics. *(1st year) : SCAN students*. Tutorials. `(In English)`.
 
 - Numerical Mathematical Tools. *(1st year) : OMNI*. Tutorials and practicals with the Python Software. `(In French)`. 
 
-- P2I-3 on Probability and Statistics. *(2sd year)*. Lectures and tutorials. `(In French)`.
+- P2I-3 on Probability and Statistics. *(2nd year)*. Lectures and tutorials. `(In French)`.
 
 
 #### 2022-2023 : Toulouse School of Economics, University of Toulouse Capitole 
 
 -   Introduction to big data. (*Master 1): Statistics, Econometrics, Data Science for Social Sciences*. Lectures and practicals with the R software. `(In English)`.
 
--   Inferential statistics. (*2d year): Economics, Management, and ENS Cachan preparatory class*. Tutorials. `(In French)`.
+-   Inferential statistics. (*2nd year): Economics, Management, and ENS Cachan preparatory class*. Tutorials. `(In French)`.
 
 -   Learning mathematical techniques and tools. (*1st year): Economics and MIASHS*. Tutorials. `(In French)`.
 
