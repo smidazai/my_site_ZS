@@ -6,19 +6,19 @@ editor: visual
 
 ## Publications
 
-Z. Smida, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. *Computational Statistics and Data Analysis*. [link](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002127?via%3Dihub)
+**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. *Computational Statistics and Data Analysis*. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002127?via%3Dihub)
 
-Z. Smida, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. *Journal of Nonparametric Statistics*.
+**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. *Journal of Nonparametric Statistics*. [Link](https://www.tandfonline.com/doi/full/10.1080/10485252.2022.2064997)
 
-C. Frévent, A. Mohamed-Salem, J. Soula, Z. Smida, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. *The R Journal*.
+C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. *The R Journal*. [Link](https://www.researchgate.net/publication/366849808_The_R_Package_HDSpatialScan_for_the_Detection_of_Clusters_of_Multivariate_and_Functional_Data_using_Spatial_Scan_Statistics)
 
-Z. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data.
+**Z. Smida**, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. [Link](https://cloud.r-project.org/web/packages/funStatTest/index.html)
 
 ## On Going works
 
-M. Berrada, Z. Smida, C. Thomas-Agnan (2023+). *Comparing mass concentrations of two marked point processes. Applications to veterinary shortage*.
+[M. Berrada](https://www.researchgate.net/profile/Mehdi-Berrada), **Z. Smida**, [C. Thomas-Agnan](https://www.tse-fr.eu/fr/people/christine-thomas-agnan) (2023+). *Comparing mass concentrations of two marked point processes. Applications to veterinary shortage*.
 
-A. Archimbaud, Z. Smida, A. Ruiz-Gazen (2023+). *A multivariate test of unimodality*.
+[A. Archimbaud](https://aurore-archimbaud.netlify.app/about/), **Z. Smida**, [A. Ruiz-Gazen](https://www.tse-fr.eu/fr/people/anne-ruiz-gazen) (2023+). *A multivariate test of unimodality*.
 
 # Software
 
