@@ -11,14 +11,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Z. Smida, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. Computational Statistics and Data Analysis. Link\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. Journal of Nonparametric Statistics. Link\nC. Frévent, A. Mohamed-Salem, J. Soula, Z. Smida, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. The R Journal. Link\nZ. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. Link"
+    "text": "Z. Smida. Comparison tests of two populations and spatial scan statistics for functional data. Institut Montpelliérain Alexander Grothendieck (IMAG), University of Montpellier. Link"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. Computational Statistics and Data Analysis. Link\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. Journal of Nonparametric Statistics. Link\nC. Frévent, A. Mohamed-Salem, J. Soula, Z. Smida, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. The R Journal. Link\nZ. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. Link"
   },
   {
     "objectID": "research.html#on-going-works",
     "href": "research.html#on-going-works",
     "title": "Research",
-    "section": "On Going works",
-    "text": "On Going works\nM. Berrada, Z. Smida, C. Thomas-Agnan (2023+). Comparing mass concentrations of two marked point processes. Applications to veterinary shortage.\nA. Archimbaud, Z. Smida, A. Ruiz-Gazen (2023+). A multivariate test of unimodality."
+    "section": "On going works",
+    "text": "On going works\nM. Berrada, Z. Smida, C. Thomas-Agnan (2023+). Comparing mass concentrations of two marked point processes. Applications to veterinary shortage.\nA. Archimbaud, Z. Smida, A. Ruiz-Gazen (2023+). A multivariate test of unimodality."
   },
   {
     "objectID": "teaching.html",

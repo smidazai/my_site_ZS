@@ -4,6 +4,12 @@ toc: false
 editor: visual
 ---
 
+
+## Ph. D Thesis
+**Z. Smida**. Comparison tests of two populations and spatial scan statistics for functional data. [Institut Montpelliérain Alexander Grothendieck (IMAG)](https://imag.umontpellier.fr/#:~:text=L'Institut%20Montpelli%C3%A9rain%20Alexander%20Grothendieck,de%20l'Universit%C3%A9%20de%20Montpellier.), University of Montpellier. [Link](https://theses.hal.science/tel-04604008)
+
+
+
 ## Publications
 
 **Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. *Computational Statistics and Data Analysis*. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002127?via%3Dihub)
@@ -14,7 +20,7 @@ C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang,
 
 **Z. Smida**, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. [Link](https://cloud.r-project.org/web/packages/funStatTest/index.html)
 
-## On Going works
+## On going works
 
 [M. Berrada](https://www.researchgate.net/profile/Mehdi-Berrada), **Z. Smida**, [C. Thomas-Agnan](https://www.tse-fr.eu/fr/people/christine-thomas-agnan) (2023+). *Comparing mass concentrations of two marked point processes. Applications to veterinary shortage*.
 
