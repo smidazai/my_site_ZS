@@ -4,35 +4,50 @@ format: html
 css: styles.css
 ---
 
-#### University of Toulouse Capitole, Toulouse School of Economics
+#### INSA Lyon
 
--   Introduction to big data. (*Master 1): Statistics, Econometrics, Data Science for Social Sciences*. (In English). Lectures and practicals with the R software
+- Mathematics. *(2sd year) : SCAN Students*. Tutorials. (In English).
 
--   Inferential statistics. (*2d year): Economics, Management, and ENS Cachan preparatory class*. (In French). Tutorials.
+- Numerical Mathematical Tools. *(1st year) : OMNI*. Tutorials and practicals with the Python Software. (In French). 
 
--   Learning mathematical techniques and tools. (*1st year): Economics and MIASHS*. (In French).Tutorials.
+- P2I-3 on Probability and Statistics. *(2sd year)*. Lectures and tutorials. (In French).
 
--   Mathematics for economics and management 1 and 2. *(1st year): Economics and Management*. (In French).Tutorials.
+- Mathematics. *(1st year) : SCAN students*. Tutorials. (In english). (In English).
 
--   Mathematics 1. (*1st year): Economics and law*. (In French). Tutorials.
+
+
+#### Toulouse School of Economics, University of Toulouse Capitole 
+
+-   Introduction to big data. (*Master 1): Statistics, Econometrics, Data Science for Social Sciences*. Lectures and practicals with the R software. (In English).
+
+-   Inferential statistics. (*2d year): Economics, Management, and ENS Cachan preparatory class*. Tutorials. (In French).
+
+-   Learning mathematical techniques and tools. (*1st year): Economics and MIASHS*. Tutorials. (In French).
+
+-   Mathematics for economics and management 1 and 2. *(1st year): Economics and Management*. Tutorials. (In French).
+
+-   Mathematics 1. (*1st year): Economics and law*. Tutorials. (In French)
 
 #### Faculty of Medicine Montpellier-Nîmes, University of Montpellier
 
--   Inferantial statistics 1. (*Master 1): Epidemiology, Health Data, Biostatistics.* (In french).    
-    + Lectures, tutorials and practicals with the R software
+-   Inferantial statistics 1. (*Master 1): Epidemiology, Health Data, Biostatistics.* Lectures, tutorials and practicals with the R software. (In French).
 
--   Statistics 2. *(5th year): Speech Therapy*. Lectures, Practical work.
+-   Statistics 2. *(5th year): Speech Therapy*. Lectures, Practical work. (In French).
 
--   Statistics 1. *(2nd year): Speech Therapy*. Lectures.
+-   Statistics 1. *(2nd year): Speech Therapy*. Lectures. (In French).
 
--   Statistics. *("PASS") : Specific Health Access Pathway*. Tutorials.
+-   Statistics. *("PASS") : Specific Health Access Pathway*. Tutorials. (In French).
 
--   Office Automation-c2i. *(2nd year): DFG Medical Sciences*. Practical work.
+-   Office Automation-c2i. *(2nd year): DFG Medical Sciences*. Practical work. (In French).
 
--   Computer Training. *(2nd year): Midwifery*. Practical work.
+-   Computer Training. *(2nd year): Midwifery*. Practical work. (In French).
 
 #### Faculty of Sciences of Montpellier, University of Montpellier
 
-    
+-   Descriptive Statistics and Probability}. *(2nd year) : Computer Science*. Tutorials. (In French).
 
-    
+-   Biostatistics 1. *(2nd year) : Life Sciences and Polytechnic Engineering School Track*. Tutorials. (In French).
+
+-   Analysis. *(2nd year) : Polytechnic Engineering School Track*. Tutorials. (In French).
+
+-   Elementary Probability and Statistics}. *(2nd year) : Mathematics*. Tutorials. (In French).
