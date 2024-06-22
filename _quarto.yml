@@ -11,8 +11,9 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-      - teaching.qmd
       - talks.qmd
+      - teaching.qmd
+      
 
 format:
   html:
