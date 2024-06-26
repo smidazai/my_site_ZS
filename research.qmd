@@ -45,7 +45,7 @@ C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang,
 
 [A. Archimbaud](https://aurore-archimbaud.netlify.app/about/), **Z. Smida**, [A. Ruiz-Gazen](https://www.tse-fr.eu/fr/people/anne-ruiz-gazen) (2023+). *A multivariate test of unimodality*.
 
-# Software
+# Software 
 
 -   *HDSpatialScan R package*
 
