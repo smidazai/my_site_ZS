@@ -4,6 +4,11 @@ toc: false
 editor: visual
 ---
 
+## Research interests 
+
+
+
+
 
 ## Ph. D Thesis
 **Z. Smida**. Comparison tests of two populations and spatial scan statistics for functional data. [Institut Montpelliérain Alexander Grothendieck (IMAG)](https://imag.umontpellier.fr/#:~:text=L'Institut%20Montpelli%C3%A9rain%20Alexander%20Grothendieck,de%20l'Universit%C3%A9%20de%20Montpellier.), University of Montpellier. [Link](https://theses.hal.science/tel-04604008)

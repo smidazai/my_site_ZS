@@ -2,3 +2,58 @@
 title: "Talks"
 editor: visual
 ---
+
+# Invited talks :
+
+-   **Apr. 2024** : Statistics and Optimization Seminar, *Institute of Mathematics of Toulouse, Toulouse*.
+
+-   **Feb. 2023** : Probability-Statistics Seminar, *Mathematics Laboratory of Besançon, Besançon*.
+
+-   **Dec. 2022** : MAD-Stat seminar, *Toulouse School of Economics, Toulouse*.
+
+-   **Feb. 2022** : 10th YSP Day: Young Probabilists and Statisticians, *IHP, Paris*.
+
+-   **May 2021** : Seminar Co-organized by the Mathematics Laboratory of the *University of Avignon* and the BioSP Unit of *INRAE Avignon*. Online.
+
+
+# National and International Conferences : 
+
+- **May 2024** : Presentation at the 55th Journées de Statistique of the French Statistical Society, **Bordeaux, France*.
+
+- **Apr. 2024** : Presentation at the 27th Annual Conference of the Mathematical Society of Tunisia, *Monastir, Tunisia*.
+
+- **Aug. 2022** : Presentation at the 24th International Conference on Computational Statistics, *Bologna, Italy*.
+
+- **June 2022** : Presentation at the Doctoral Students' Day at IMAG, *Montpellier, France*.
+
+- **June 2022** : Poster at the 2nd IMAG-IMT Days, *Montpellier, France*.
+
+- **May 2022** : Presentation at the 20th International Workshop in Spatial Econometrics and Statistics. *Lille, France*.
+
+- **Apr. 2022** : Presentation at the 9th Meeting of Young Statisticians, *Porquerolles, France*.
+
+- **Dec. 2022** : Presentation at the Forum of Young Mathematicians, *Besançon, France*.
+
+- **June 2021** : Presentation at the 52nd Journées de Statistique of the French Statistical Society, *Nice, France*. 
+
+- **June 2020** : Accepted communication at the 52nd Journées de Statistique of the French Statistical Society (delayed until 2021), *Nice, France*.
+
+- **June 2019** : Participation in the 51st Journées de Statistique of the French Statistical Society, *University of Lorraine, Nancy, France*.
+
+- **Mar. 2019** : Participation in the Doctoral Days in Probability, *University of Montpellier, France*.
+
+# Seminars and other présentations : 
+
+- **Jan. 2024** : ICJ Welcome Day, *Institut Camille Jordan ICJ, Lyon, France*. 
+
+- **Nov. 2023** : PSPM Team Meeting, *Institut Camille Jordan ICJ, Lyon, France*.
+
+- **Nov. 2023** : Mathematical and Social Event at INSA, *INSA, Lyon? France*.
+
+- **Mar. 2022** : Doctoral Students' Seminar: Special Session on Women's Rights and Gender Equality, *Institut Montpelliérain Alexender Grothendieck, Montpellier, France*.
+
+- **Nov. 2021** : Doctoral Students' Seminar, *Institut Montpelliérain Alexender Grothendieck, Montpellier, France*.
+
+- **Oct. 2021** : Probability and Statistics Seminar, *Institut Montpelliérain Alexender Grothendieck, Montpellier, France*.
+
+
