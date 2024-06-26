@@ -42,7 +42,7 @@ editor: visual
 
 - **Mar. 2019** : Participation in the Doctoral Days in Probability, *University of Montpellier, France*.
 
-# Seminars and other présentations : 
+# Seminars and other presentations : 
 
 - **Jan. 2024** : ICJ Welcome Day, *Institut Camille Jordan ICJ, Lyon, France*. 
 
