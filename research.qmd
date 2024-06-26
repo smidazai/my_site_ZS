@@ -6,6 +6,20 @@ editor: visual
 
 ## Research interests 
 
+### Nonparametric tests for functional data
+
+```{r}
+#| label: fig-peng-tour-demo
+#| layout-ncol: 2
+#| echo: false
+#| out-width: "45%"
+knitr::include_graphics("boxplot_1.png")
+knitr::include_graphics("case_study.png")
+```
+ 
+ 
+ 
+### Scan statistics for cluster detection : 
 
 
 
