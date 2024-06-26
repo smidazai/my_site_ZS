@@ -24,7 +24,7 @@ editor: visual
 
 - **Aug. 2022** : Presentation at the 24th International Conference on Computational Statistics, *Bologna, Italy*.
 
-- **June 2022** : Presentation at the Doctoral Students' Day at IMAG, *Montpellier, France*.
+- **June 2022** : Presentation at the Doctoral Students' Day at Institut Montpelliérain Alexender Grothendieck, *Montpellier, France*.
 
 - **June 2022** : Poster at the 2nd IMAG-IMT Days, *Montpellier, France*.
 
