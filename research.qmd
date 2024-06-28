@@ -5,19 +5,19 @@ editor: visual
 ---
 
 ## Ph. D Thesis
-**Z. Smida**. Comparison tests of two populations and spatial scan statistics for functional data. [Institut Montpelliérain Alexander Grothendieck (IMAG)](https://imag.umontpellier.fr/#:~:text=L'Institut%20Montpelli%C3%A9rain%20Alexander%20Grothendieck,de%20l'Universit%C3%A9%20de%20Montpellier.), University of Montpellier. [\[Link\]](https://theses.hal.science/tel-04604008)
+**Z. Smida**. Comparison tests of two populations and spatial scan statistics for functional data. [Institut Montpelliérain Alexander Grothendieck (IMAG)](https://imag.umontpellier.fr/#:~:text=L'Institut%20Montpelli%C3%A9rain%20Alexander%20Grothendieck,de%20l'Universit%C3%A9%20de%20Montpellier.), University of Montpellier. [\[Link\]](https://theses.hal.science/tel-04604008).
 
 
 
 ## Publications
 
-**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. *Computational Statistics and Data Analysis*. [\[Link\]](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002127?via%3Dihub)
+**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. *Computational Statistics and Data Analysis*. [\[Link\]](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002127?via%3Dihub).
 
-**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. *Journal of Nonparametric Statistics*. [\[Link\]](https://www.tandfonline.com/doi/full/10.1080/10485252.2022.2064997)
+**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. *Journal of Nonparametric Statistics*. [\[Link\]](https://www.tandfonline.com/doi/full/10.1080/10485252.2022.2064997).
 
-C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. *The R Journal*. [\[Link\]](https://www.researchgate.net/publication/366849808_The_R_Package_HDSpatialScan_for_the_Detection_of_Clusters_of_Multivariate_and_Functional_Data_using_Spatial_Scan_Statistics)
+C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. *The R Journal*. [\[Link\]](https://journal.r-project.org/articles/RJ-2022-045/).
 
-**Z. Smida**, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. [\[Link\]](https://cloud.r-project.org/web/packages/funStatTest/index.html)
+**Z. Smida**, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. [\[Link\]](https://cloud.r-project.org/web/packages/funStatTest/index.html).
 
 ## On going works
 
@@ -29,21 +29,18 @@ C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang,
 
 :::: {layout="[ 80, 20 ]"}
 
-::: {#first-column}
+::: {#first-column style="text-align: center;"}
+
 
 - **funStatTest** *R package* : Statistical testing for functional data.[\[Code\]](https://cloud.r-project.org/web/packages/funStatTest/index.html),   [\[Website\]](https://gdurif.pages.math.cnrs.fr/funStatTest/).
 
-- **HDSpatialScan** *R package* : Spatial scan statistics for functional data. [\[Code\]](https://cran.r-project.org/web/packages/HDSpatialScan/index.html). 
+- **HDSpatialScan** *R package* : Spatial scan statistics for functional data. [\[Code\]](https://cran.r-project.org/web/packages/HDSpatialScan/index.html), [\[Article\]](https://journal.r-project.org/articles/RJ-2022-045/).
 :::
 
 ::: {#second-column}
-![](rlogo.png){style="height: 90px;"}
+![](rlogo.png){style="height: 70px;"}
 :::
-
 ::::
-
-
-
 
 ## Talks 
 

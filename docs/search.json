@@ -11,14 +11,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Z. Smida. Comparison tests of two populations and spatial scan statistics for functional data. Institut Montpelliérain Alexander Grothendieck (IMAG), University of Montpellier. [Link]"
+    "text": "Z. Smida. Comparison tests of two populations and spatial scan statistics for functional data. Institut Montpelliérain Alexander Grothendieck (IMAG), University of Montpellier. [Link]."
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. Computational Statistics and Data Analysis. [Link]\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. Journal of Nonparametric Statistics. [Link]\nC. Frévent, A. Mohamed-Salem, J. Soula, Z. Smida, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. The R Journal. [Link]\nZ. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. [Link]"
+    "text": "Publications\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. Computational Statistics and Data Analysis. [Link].\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. Journal of Nonparametric Statistics. [Link].\nC. Frévent, A. Mohamed-Salem, J. Soula, Z. Smida, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. The R Journal. [Link].\nZ. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. [Link]."
   },
   {
     "objectID": "research.html#on-going-works",
@@ -32,7 +32,7 @@
     "href": "research.html#software",
     "title": "Research",
     "section": "Software",
-    "text": "Software\n\n\n\n\nfunStatTest R package : Statistical testing for functional data.[Code], [Website].\nHDSpatialScan R package : Spatial scan statistics for functional data. [Code]."
+    "text": "Software\n\n\n\n\nfunStatTest R package : Statistical testing for functional data.[Code], [Website].\nHDSpatialScan R package : Spatial scan statistics for functional data. [Code], [Article]."
   },
   {
     "objectID": "research.html#talks",
