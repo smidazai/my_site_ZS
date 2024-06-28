@@ -39,3 +39,27 @@ Associate professor (*Maître de conférences*) at [INSA Lyon, France](https://w
 
 - **Office number** : A-134
 
+
+
+<!--
+:::{.grid}
+
+::: {.g-col-12 .g-col-md-5 .g-start-md-2}
+# Contact 
+
+- **e-mail** : zaineb.smida@insa-lyon.fr
+
+- **Adress** : INSA Lyon, Bâtiment Léonard de Vinci, Pôle de Mathématiques, 21 avenue Jean Capelle, 69621 Villeurbanne cedex. 
+
+- **Office number** : A-134
+:::
+
+::: {.g-col-12 .g-col-md-5}
+## News 
+
+- Member of the Mathematics Council at INSA Lyon
+:::
+
+:::
+
+-->

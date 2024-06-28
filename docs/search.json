@@ -18,14 +18,14 @@
     "href": "research.html#ph.-d-thesis",
     "title": "Research",
     "section": "Ph. D Thesis",
-    "text": "Ph. D Thesis\nZ. Smida. Comparison tests of two populations and spatial scan statistics for functional data. Institut Montpelliérain Alexander Grothendieck (IMAG), University of Montpellier. Link"
+    "text": "Ph. D Thesis\nZ. Smida. Comparison tests of two populations and spatial scan statistics for functional data. Institut Montpelliérain Alexander Grothendieck (IMAG), University of Montpellier. [Link]"
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. Computational Statistics and Data Analysis. Link\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. Journal of Nonparametric Statistics. Link\nC. Frévent, A. Mohamed-Salem, J. Soula, Z. Smida, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. The R Journal. Link\nZ. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. Link"
+    "text": "Publications\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. Computational Statistics and Data Analysis. [Link]\nZ. Smida, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. Journal of Nonparametric Statistics. [Link]\nC. Frévent, A. Mohamed-Salem, J. Soula, Z. Smida, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. The R Journal. [Link]\nZ. Smida, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. [Link]"
   },
   {
     "objectID": "research.html#on-going-works",
@@ -35,11 +35,18 @@
     "text": "On going works\nM. Berrada, Z. Smida, C. Thomas-Agnan (2023+). Comparing mass concentrations of two marked point processes. Applications to veterinary shortage.\nA. Archimbaud, Z. Smida, A. Ruiz-Gazen (2023+). A multivariate test of unimodality."
   },
   {
+    "objectID": "research.html#software",
+    "href": "research.html#software",
+    "title": "Research",
+    "section": "Software",
+    "text": "Software\n\nfunStatTest R package : Statistical testing for functional data.[Code], [Website].\nHDSpatialScan R package : Spatial scan statistics for functional data. [Code]."
+  },
+  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "National and International Conferences :\n\nMay 2024 : Presentation at the 55th Journées de Statistique of the French Statistical Society, **Bordeaux, France*.\nApr. 2024 : Presentation at the 27th Annual Conference of the Mathematical Society of Tunisia, Monastir, Tunisia.\nAug. 2022 : Presentation at the 24th International Conference on Computational Statistics, Bologna, Italy.\nJune 2022 : Presentation at the Doctoral Students’ Day at Institut Montpelliérain Alexender Grothendieck, Montpellier, France.\nJune 2022 : Poster at the 2nd IMAG-IMT Days, Montpellier, France.\nMay 2022 : Presentation at the 20th International Workshop in Spatial Econometrics and Statistics. Lille, France.\nApr. 2022 : Presentation at the 9th Meeting of Young Statisticians, Porquerolles, France.\nDec. 2022 : Presentation at the Forum of Young Mathematicians, Besançon, France.\nJune 2021 : Presentation at the 52nd Journées de Statistique of the French Statistical Society, Nice, France.\nJune 2020 : Accepted communication at the 52nd Journées de Statistique of the French Statistical Society (delayed until 2021), Nice, France.\nJune 2019 : Participation in the 51st Journées de Statistique of the French Statistical Society, University of Lorraine, Nancy, France.\nMar. 2019 : Participation in the Doctoral Days in Probability, University of Montpellier, France.\n\n\n\nSeminars and other talks :\n\nJan. 2024 : ICJ Welcome Day, Institut Camille Jordan ICJ, Lyon, France.\nNov. 2023 : PSPM Team Meeting, Institut Camille Jordan ICJ, Lyon, France.\nNov. 2023 : Mathematical and Social Event at INSA, INSA, Lyon? France.\nMar. 2022 : Doctoral Students’ Seminar: Special Session on Women’s Rights and Gender Equality, Institut Montpelliérain Alexender Grothendieck, Montpellier, France.\nNov. 2021 : Doctoral Students’ Seminar, Institut Montpelliérain Alexender Grothendieck, Montpellier, France.\nOct. 2021 : Probability and Statistics Seminar, Institut Montpelliérain Alexender Grothendieck, Montpellier, France."
+    "text": "National and International Conferences :\n\nMay 2024 : Presentation at the 55th Journées de Statistique of the French Statistical Society, Bordeaux, France.\nApr. 2024 : Presentation at the 27th Annual Conference of the Mathematical Society of Tunisia, Monastir, Tunisia.\nAug. 2022 : Presentation at the 24th International Conference on Computational Statistics, Bologna, Italy.\nJune 2022 : Presentation at the Doctoral Students’ Day at Institut Montpelliérain Alexender Grothendieck, Montpellier, France.\nJune 2022 : Poster at the 2nd IMAG-IMT Days, Montpellier, France.\nMay 2022 : Presentation at the 20th International Workshop in Spatial Econometrics and Statistics. Lille, France.\nApr. 2022 : Presentation at the 9th Meeting of Young Statisticians, Porquerolles, France.\nDec. 2022 : Presentation at the Forum of Young Mathematicians, Besançon, France.\nJune 2021 : Presentation at the 52nd Journées de Statistique of the French Statistical Society, Nice, France.\nJune 2020 : Accepted communication at the 52nd Journées de Statistique of the French Statistical Society (delayed until 2021), Nice, France.\nJune 2019 : Participation in the 51st Journées de Statistique of the French Statistical Society, University of Lorraine, Nancy, France.\nMar. 2019 : Participation in the Doctoral Days in Probability, University of Montpellier, France.\n\n\n\nSeminars and other talks :\n\nJan. 2024 : ICJ Welcome Day, Institut Camille Jordan ICJ, Lyon, France.\nNov. 2023 : PSPM Team Meeting, Institut Camille Jordan ICJ, Lyon, France.\nNov. 2023 : Mathematical and Social Event at INSA, INSA, Lyon? France.\nMar. 2022 : Doctoral Students’ Seminar: Special Session on Women’s Rights and Gender Equality, Institut Montpelliérain Alexender Grothendieck, Montpellier, France.\nNov. 2021 : Doctoral Students’ Seminar, Institut Montpelliérain Alexender Grothendieck, Montpellier, France.\nOct. 2021 : Probability and Statistics Seminar, Institut Montpelliérain Alexender Grothendieck, Montpellier, France."
   },
   {
     "objectID": "teaching.html",
@@ -47,5 +54,12 @@
     "title": "Teaching",
     "section": "",
     "text": "2022-2023 : Toulouse School of Economics, University of Toulouse Capitole\n\nIntroduction to big data. (Master 1): Statistics, Econometrics, Data Science for Social Sciences. Lectures and practicals with the R software. (In English).\nInferential statistics. (2nd year): Economics, Management, and ENS Cachan preparatory class. Tutorials. (In French).\nLearning mathematical techniques and tools. (1st year): Economics and MIASHS. Tutorials. (In French).\nMathematics for economics and management 1 and 2. (1st year): Economics and Management. Tutorials. (In French).\nMathematics 1. (1st year): Economics and law. Tutorials. (In French)\n\n\n\n2021-2022 : Faculty of Medicine Montpellier-Nîmes, University of Montpellier\n\nInferantial statistics 1. (Master 1): Epidemiology, Health Data, Biostatistics. Lectures, tutorials and practicals with the R software. (In French).\nStatistics 2. (5th year): Speech Therapy. Lectures and Practical work. (In French).\nStatistics 1. (2nd year): Speech Therapy. Lectures. (In French).\nStatistics. (“PASS”) : Specific Health Access Pathway. Tutorials. (In French).\nOffice Automation-c2i. (2nd year): DFG Medical Sciences. Practical work. (In French).\nComputer Training. (2nd year): Midwifery. Practical work. (In French).\n\n\n\n2019-2021 : Faculty of Sciences of Montpellier, University of Montpellier\n\nDescriptive Statistics and Probability. (2nd year) : Computer Science. Tutorials. (In French).\nBiostatistics 1. (2nd year) : Life Sciences and Polytechnic Engineering School Track. Tutorials. (In French).\nAnalysis. (2nd year) : Polytechnic Engineering School Track. Tutorials. (In French).\nElementary Probability and Statistics. (2nd year) : Mathematics. Tutorials. (In French)."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Zaineb Smida",
+    "section": "News",
+    "text": "News\n\nMember of the Mathematics Council at INSA Lyon"
   }
 ]

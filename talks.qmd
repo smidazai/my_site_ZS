@@ -18,7 +18,7 @@ editor: visual
 
 # National and International Conferences : 
 
-- **May 2024** : Presentation at the 55th Journées de Statistique of the French Statistical Society, **Bordeaux, France*.
+- **May 2024** : Presentation at the 55th Journées de Statistique of the French Statistical Society, *Bordeaux, France*.
 
 - **Apr. 2024** : Presentation at the 27th Annual Conference of the Mathematical Society of Tunisia, *Monastir, Tunisia*.
 
