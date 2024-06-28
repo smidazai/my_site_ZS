@@ -37,7 +37,7 @@ C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang,
 :::
 
 ::: {#second-column}
-![](rlogo.png)
+![](rlogo.png){style="height: 90px;"}
 :::
 
 ::::
