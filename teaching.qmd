@@ -4,6 +4,10 @@ format: html
 css: styles.css
 ---
 
+
+:::: {layout="[80, 20 ]"}
+
+::: {#first-column style="text-align: center;"}
 #### From September 2023 : INSA Lyon
 
 - Mathematics. *(2nd year) : SCAN Students*. Tutorials. `(In English)`.
@@ -13,8 +17,18 @@ css: styles.css
 - Numerical Mathematical Tools. *(1st year) : OMNI*. Tutorials and practicals with the Python Software. `(In French)`. 
 
 - P2I-3 on Probability and Statistics. *(2nd year)*. Lectures and tutorials. `(In French)`.
+:::
+
+::: {#second-column}
+![](logo_insa.jpg){style="height: 70px;"}
+:::
+::::
 
 
+
+:::: {layout="[80, 20 ]"}
+
+::: {#first-column style="text-align: center;"}
 #### 2022-2023 : Toulouse School of Economics, University of Toulouse Capitole 
 
 -   Introduction to big data. (*Master 1): Statistics, Econometrics, Data Science for Social Sciences*. Lectures and practicals with the R software. `(In English)`.
@@ -26,6 +40,18 @@ css: styles.css
 -   Mathematics for economics and management 1 and 2. *(1st year): Economics and Management*. Tutorials. `(In French)`.
 
 -   Mathematics 1. (*1st year): Economics and law*. Tutorials. `(In French)`
+
+:::
+
+::: {#second-column}
+![](logo_tse.png){style="height: 70px;"}
+:::
+::::
+
+
+:::: {layout="[80, 20 ]"}
+
+::: {#first-column style="text-align: center;"}
 
 #### 2021-2022 : Faculty of Medicine Montpellier-Nîmes, University of Montpellier
 
@@ -40,7 +66,17 @@ css: styles.css
 -   Office Automation-c2i. *(2nd year): DFG Medical Sciences*. Practical work. `(In French)`.
 
 -   Computer Training. *(2nd year): Midwifery*. Practical work. `(In French)`.
+:::
 
+::: {#second-column}
+![](logo_medecine.png){style="height: 70px;"}
+:::
+::::
+
+
+:::: {layout="[80, 20 ]"}
+
+::: {#first-column style="text-align: center;"}
 #### 2019-2021 : Faculty of Sciences of Montpellier, University of Montpellier
 
 -   Descriptive Statistics and Probability. *(2nd year) : Computer Science*. Tutorials. `(In French)`.
@@ -50,3 +86,9 @@ css: styles.css
 -   Analysis. *(2nd year) : Polytechnic Engineering School Track*. Tutorials. `(In French)`.
 
 -   Elementary Probability and Statistics. *(2nd year) : Mathematics*. Tutorials. `(In French)`.
+:::
+
+::: {#second-column}
+![](logo_fac_de_sciences.jpg){style="height: 70px;"}
+:::
+::::
