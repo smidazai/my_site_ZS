@@ -20,7 +20,7 @@ css: styles.css
 :::
 
 ::: {#second-column}
-![](logo_insa.jpg){style="height: 70px;"}
+![](logo_insa.png){style="height: 70px;"}
 :::
 ::::
 

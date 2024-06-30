@@ -11,11 +11,11 @@ editor: visual
 
 ## Publications
 
-**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. *Computational Statistics and Data Analysis*. [\[Link\]](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002127?via%3Dihub).
+**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2021). A Wilcoxon-Mann-Whitney spatial scan statistic for functional data. *Computational Statistics and Data Analysis*. [\[Article\]](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002127?via%3Dihub), [\[Poster\]](poster_scan_ZS.pdf).
 
-**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. *Journal of Nonparametric Statistics*. [\[Link\]](https://www.tandfonline.com/doi/full/10.1080/10485252.2022.2064997).
+**Z. Smida**, L. Cucala, A. Gannoun, G. Durif (2022). A median test for functional data. *Journal of Nonparametric Statistics*. [\[Article\]](https://www.tandfonline.com/doi/full/10.1080/10485252.2022.2064997).
 
-C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. *The R Journal*. [\[Link\]](https://journal.r-project.org/articles/RJ-2022-045/).
+C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang, M. Genin (2023). The R Package HDSpatialScan for the Detection of Clusters of Multivariate and Functional Data using Spatial Scan Statistics. *The R Journal*. [\[Article\]](https://journal.r-project.org/articles/RJ-2022-045/).
 
 **Z. Smida**, G. Durif, L. Cucala (2023). The R package funStatTest : Statistical Testing for Functional Data. [\[Link\]](https://cloud.r-project.org/web/packages/funStatTest/index.html).
 
@@ -32,7 +32,7 @@ C. Frévent, A. Mohamed-Salem, J. Soula, **Z. Smida**, L. Cucala, S. Dabo-Niang,
 ::: {#first-column style="text-align: center;"}
 
 
-- **funStatTest** *R package* : Statistical testing for functional data.[\[Code\]](https://cloud.r-project.org/web/packages/funStatTest/index.html),   [\[Website\]](https://gdurif.pages.math.cnrs.fr/funStatTest/).
+- **funStatTest** *R package* : Statistical testing for functional data. [\[Code\]](https://cloud.r-project.org/web/packages/funStatTest/index.html),   [\[Website\]](https://gdurif.pages.math.cnrs.fr/funStatTest/).
 
 - **HDSpatialScan** *R package* : Spatial scan statistics for functional data. [\[Code\]](https://cran.r-project.org/web/packages/HDSpatialScan/index.html), [\[Article\]](https://journal.r-project.org/articles/RJ-2022-045/).
 :::
