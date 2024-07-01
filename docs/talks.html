@@ -60,6 +60,9 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -113,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#research-interests" id="toc-research-interests" class="nav-link active" data-scroll-target="#research-interests">Research interests</a>
   <ul class="collapse">
-  <li><a href="#nonparametric-tests-for-functional-data" id="toc-nonparametric-tests-for-functional-data" class="nav-link" data-scroll-target="#nonparametric-tests-for-functional-data">Nonparametric tests for functional data</a></li>
+  <li><a href="#nonparametric-statistical-testing" id="toc-nonparametric-statistical-testing" class="nav-link" data-scroll-target="#nonparametric-statistical-testing">Nonparametric statistical testing</a></li>
   <li><a href="#scan-statistics-for-cluster-detection" id="toc-scan-statistics-for-cluster-detection" class="nav-link" data-scroll-target="#scan-statistics-for-cluster-detection">Scan statistics for cluster detection :</a></li>
   </ul></li>
   </ul>
@@ -140,10 +143,9 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="research-interests" class="level2">
 <h2 class="anchored" data-anchor-id="research-interests">Research interests</h2>
-<section id="nonparametric-tests-for-functional-data" class="level3">
-<h3 class="anchored" data-anchor-id="nonparametric-tests-for-functional-data">Nonparametric tests for functional data</h3>
+<section id="nonparametric-statistical-testing" class="level3">
+<h3 class="anchored" data-anchor-id="nonparametric-statistical-testing">Nonparametric statistical testing</h3>
 <!--
-
 ::: {.cell layout-ncol="2"}
 ::: {.cell-output-display}
 ![](boxplot_1.png){#fig-peng-tour-demo-1 width=35%}
@@ -155,12 +157,59 @@ ul.task-list li input[type="checkbox"] {
 :::
 
 -->
-<div class="r-stack">
-<p><img src="boxplot_1.png" class="fragment" width="450" height="300"></p>
-<p><img src="case_study.png" class="fragment" width="450" height="300"></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-flowchart" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p>
+
+</p><pre class="mermaid" data-tooltip-selector="#mermaid-tooltip-1">flowchart TD
+    I["Nonparametric statistical tests&lt;br&gt;"] --&gt; J["Median test&lt;br&gt;&lt;a href='https://psycnet.apa.org/record/1950-05609-000'target='_blank'&gt;Mood (1950)&lt;/a&gt;"]
+    I --&gt; L["Wilcoxon-Mann-Whitney test&lt;br&gt;&lt;a href='https://www.jstor.org/stable/3001968?origin=crossref' target='_blank'&gt;H\u00E1jek (1999)"]
+</pre>
+<div id="mermaid-tooltip-1" class="mermaidTooltip">
+
+</div>
+<p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: title to add</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p><img src="boxplot_1.png" class="fragment" width="400" height="300"></p>
+</div><div class="column" style="width:50%;">
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-flowchart" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p>
+
+</p><pre class="mermaid" data-tooltip-selector="#mermaid-tooltip-2">flowchart TD
+    I["Nonparametric statistical tests&lt;br&gt;"] --&gt; J["Median test&lt;br&gt;&lt;a href='https://www.jstor.org/stable/43305650' target='_blank'&gt; Smida et al. (2022)"]
+    I --&gt; L["Wilcoxon-Mann-Whitney test&lt;br&gt;&lt;a href='https://www.jstor.org/stable/43305650' target='_blank'&gt;Chakraborty &amp; Chaudhuri (2015)"]
+</pre>
+<div id="mermaid-tooltip-2" class="mermaidTooltip">
+
+</div>
+<p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: title to add</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p><img src="case_study.png" class="fragment" width="400" height="300"></p>
+</div>
 </div>
 <!--
+::: {layout-ncol="2"}
+![](boxplot_1.png){.fragment width="450" height="300"}
 
+![](case_study.png){.fragment width="450" height="300"}
+:::
+-->
+<!--
 
 ```{=html}
 <object data="case_study.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
@@ -170,11 +219,39 @@ ul.task-list li input[type="checkbox"] {
 </object>
 ```
 
-
 -->
+<p>````</p>
 </section>
 <section id="scan-statistics-for-cluster-detection" class="level3">
 <h3 class="anchored" data-anchor-id="scan-statistics-for-cluster-detection">Scan statistics for cluster detection :</h3>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="cercles.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Scaning method</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="cluster.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Cluster detection</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="curves.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Cluster detection</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
 
 
 </section>

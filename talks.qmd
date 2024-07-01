@@ -2,10 +2,12 @@
 title: "Gallery"
 editor: visual
 ---
-## Research interests 
 
-### Nonparametric tests for functional data
+## Research interests
 
+### Nonparametric statistical testing
+
+````{=html}
 <!--
 ```{r}
 #| label: fig-peng-tour-demo
@@ -18,13 +20,48 @@ knitr::include_graphics("boxplot_1.png")
 knitr::include_graphics("case_study.png")
 ```
 -->
+````
 
-::: {.r-stack}
+::: columns
+::: {.column width="50%"}
+```{mermaid}
+%%| label: fig-flowchart
+%%| fig-cap: title to add 
+%%| fig-align: center
+
+flowchart TD
+    I["Nonparametric statistical tests<br>"] --> J["Median test<br><a href='https://psycnet.apa.org/record/1950-05609-000'target='_blank'>Mood (1950)</a>"]
+    I --> L["Wilcoxon-Mann-Whitney test<br><a href='https://www.jstor.org/stable/3001968?origin=crossref' target='_blank'>H\u00E1jek (1999)"]
+```
+
+![](boxplot_1.png){.fragment width="400" height="300"}
+:::
+
+
+
+::: {.column width="50%"}
+```{mermaid}
+%%| label: fig-flowchart
+%%| fig-cap: title to add 
+%%| fig-align: center
+
+flowchart TD
+    I["Nonparametric statistical tests<br>"] --> J["Median test<br><a href='https://www.jstor.org/stable/43305650' target='_blank'> Smida et al. (2022)"]
+    I --> L["Wilcoxon-Mann-Whitney test<br><a href='https://www.jstor.org/stable/43305650' target='_blank'>Chakraborty & Chaudhuri (2015)"]
+```
+
+![](case_study.png){.fragment width="400" height="300"}
+:::
+:::
+
+
+<!--
+::: {layout-ncol="2"}
 ![](boxplot_1.png){.fragment width="450" height="300"}
 
 ![](case_study.png){.fragment width="450" height="300"}
 :::
-
+-->
 
 
 <!--
@@ -36,5 +73,14 @@ knitr::include_graphics("case_study.png")
 </object>
 ```
 -->
+````
 
-### Scan statistics for cluster detection : 
+### Scan statistics for cluster detection :
+
+::: {layout-ncol="3"}
+![Scaning method](cercles.png)
+
+![Cluster detection](cluster.png)
+
+![Cluster detection](curves.png)
+:::
