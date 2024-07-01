@@ -68,8 +68,9 @@ flowchart TD
     download the PDF file.</a></p>
 </object>
 ```
--->
+
 ````
+-->
 
 ### Scan statistics for cluster detection :
 
