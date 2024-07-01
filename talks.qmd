@@ -7,34 +7,18 @@ editor: visual
 
 ### Nonparametric statistical testing
 
-````{=html}
-<!--
-```{r}
-#| label: fig-peng-tour-demo
-#| layout-ncol: 2
-#| echo: false
-#| out-width: "35%"
-#| fig.width: 2
-#| fig.height: 1
-knitr::include_graphics("boxplot_1.png")
-knitr::include_graphics("case_study.png")
-```
--->
-````
-
 ::: columns
 ::: {.column width="50%"}
 ```{mermaid}
 %%| fig-align: center
 
 flowchart TD
-    I["Nonparametric statistical tests<br>Univariate case"] --> J["Median test<br><a href='https://psycnet.apa.org/record/1950-05609-000'target='_blank'>Mood (1950)</a>"]
-    I --> L["Wilcoxon-Mann-Whitney test<br><a href='https://www.jstor.org/stable/3001968?origin=crossref' target='_blank'>H\u00E1jek (1999)"]
+    I["Nonparametric statistical tests<br><b>Univariate case</b>"] --> J["Median test<br><a href='https://psycnet.apa.org/record/1950-05609-000'target='_blank'>Mood (1950)</a>"]
+    I --> L["Wilcoxon-Mann-Whitney test<br><a href='https://www.sciencedirect.com/book/9780126423501/theory-of-rank-tests' target='_blank'>H\u00E1jek (1999)"]
 ```
 
-![](boxplot_1.png){.fragment width="380" height="300"}
+![](boxplot_1.png){.fragment width="370" height="300"}
 :::
-
 
 
 ::: {.column width="50%"}
@@ -42,7 +26,7 @@ flowchart TD
 %%| fig-align: center
 
 flowchart TD
-    I["Nonparametric statistical tests<br>Functional case"] --> J["Median test<br><a href='https://www.jstor.org/stable/43305650' target='_blank'> Smida et al. (2022)"]
+    I["Nonparametric statistical tests<br><b>Functional case</b>"] --> J["Median test<br><a href='https://www.tandfonline.com/doi/full/10.1080/10485252.2022.2064997' target='_blank'> Smida et al. (2022)"]
     I --> L["Wilcoxon-Mann-Whitney test<br><a href='https://www.jstor.org/stable/43305650' target='_blank'>Chakraborty et al. (2015)"]
 ```
 
@@ -51,33 +35,35 @@ flowchart TD
 :::
 
 
-<!--
-::: {layout-ncol="2"}
-![](boxplot_1.png){.fragment width="450" height="300"}
 
-![](case_study.png){.fragment width="450" height="300"}
-:::
--->
-
-
-<!--
-```{=html}
-<object data="case_study.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
-    <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="case_study.pdf">click here to
-    download the PDF file.</a></p>
-</object>
-```
-
-````
--->
 
 ### Scan statistics for cluster detection :
 
+
+
+```{mermaid}
+%%| fig-align: center
+
+flowchart LR
+ S["<b>Step 1 :</b> Is there a significant cluster ?"] --> D("<b>Step 2 :</b> Scanning the map<br>by computing a scan statistic ") --> d["<b>Step 3 :</b> Cluster detection"]
+```
+
+
+
 ::: {layout-ncol="3"}
-![Scaning method](cercles.png)
+![Scanning step](cercles.png){.fragment width="370" height="300"}
 
-![Cluster detection](cluster.png)
+![Cluster detection](cluster.png){.fragment width="370" height="300"}
 
-![Cluster detection](curves.png)
+![Curves detected](curves.png){.fragment width="370" height="1500"}
 :::
+
+
+
+
+
+
+
+
+
+

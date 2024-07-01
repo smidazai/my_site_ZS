@@ -145,28 +145,15 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="research-interests">Research interests</h2>
 <section id="nonparametric-statistical-testing" class="level3">
 <h3 class="anchored" data-anchor-id="nonparametric-statistical-testing">Nonparametric statistical testing</h3>
-<!--
-::: {.cell layout-ncol="2"}
-::: {.cell-output-display}
-![](boxplot_1.png){#fig-peng-tour-demo-1 width=35%}
-:::
-
-::: {.cell-output-display}
-![](case_study.png){#fig-peng-tour-demo-2 width=35%}
-:::
-:::
-
--->
 <div class="columns">
 <div class="column" style="width:50%;">
 <div class="cell">
 <div class="cell-output-display">
 <div>
 <p>
-
 </p><pre class="mermaid" data-tooltip-selector="#mermaid-tooltip-1">flowchart TD
-    I["Nonparametric statistical tests&lt;br&gt;Univariate case"] --&gt; J["Median test&lt;br&gt;&lt;a href='https://psycnet.apa.org/record/1950-05609-000'target='_blank'&gt;Mood (1950)&lt;/a&gt;"]
-    I --&gt; L["Wilcoxon-Mann-Whitney test&lt;br&gt;&lt;a href='https://www.jstor.org/stable/3001968?origin=crossref' target='_blank'&gt;H\u00E1jek (1999)"]
+    I["Nonparametric statistical tests&lt;br&gt;&lt;b&gt;Univariate case&lt;/b&gt;"] --&gt; J["Median test&lt;br&gt;&lt;a href='https://psycnet.apa.org/record/1950-05609-000'target='_blank'&gt;Mood (1950)&lt;/a&gt;"]
+    I --&gt; L["Wilcoxon-Mann-Whitney test&lt;br&gt;&lt;a href='https://www.sciencedirect.com/book/9780126423501/theory-of-rank-tests' target='_blank'&gt;H\u00E1jek (1999)"]
 </pre>
 <div id="mermaid-tooltip-1" class="mermaidTooltip">
 
@@ -175,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<p><img src="boxplot_1.png" class="fragment" width="380" height="300"></p>
+<p><img src="boxplot_1.png" class="fragment" width="370" height="300"></p>
 </div><div class="column" style="width:50%;">
 <div class="cell">
 <div class="cell-output-display">
@@ -183,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 <p>
 
 </p><pre class="mermaid" data-tooltip-selector="#mermaid-tooltip-2">flowchart TD
-    I["Nonparametric statistical tests&lt;br&gt;Functional case"] --&gt; J["Median test&lt;br&gt;&lt;a href='https://www.jstor.org/stable/43305650' target='_blank'&gt; Smida et al. (2022)"]
+    I["Nonparametric statistical tests&lt;br&gt;&lt;b&gt;Functional case&lt;/b&gt;"] --&gt; J["Median test&lt;br&gt;&lt;a href='https://www.tandfonline.com/doi/full/10.1080/10485252.2022.2064997' target='_blank'&gt; Smida et al. (2022)"]
     I --&gt; L["Wilcoxon-Mann-Whitney test&lt;br&gt;&lt;a href='https://www.jstor.org/stable/43305650' target='_blank'&gt;Chakraborty et al. (2015)"]
 </pre>
 <div id="mermaid-tooltip-2" class="mermaidTooltip">
@@ -196,43 +183,37 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="case_study.png" class="fragment" width="420" height="300"></p>
 </div>
 </div>
-<!--
-::: {layout-ncol="2"}
-![](boxplot_1.png){.fragment width="450" height="300"}
-
-![](case_study.png){.fragment width="450" height="300"}
-:::
--->
-<!--
-
-```{=html}
-<object data="case_study.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
-    <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="case_study.pdf">click here to
-    download the PDF file.</a></p>
-</object>
-```
-
-
-````
--->
 </section>
 <section id="scan-statistics-for-cluster-detection" class="level3">
 <h3 class="anchored" data-anchor-id="scan-statistics-for-cluster-detection">Scan statistics for cluster detection :</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<p>
+</p><pre class="mermaid" data-tooltip-selector="#mermaid-tooltip-3">flowchart LR
+ S["&lt;b&gt;Step 1 :&lt;/b&gt; Is there a significant cluster ?"] --&gt; D("&lt;b&gt;Step 2 :&lt;/b&gt; Scanning the map&lt;br&gt;by computing a scan statistic ") --&gt; d["&lt;b&gt;Step 3 :&lt;/b&gt; Cluster detection"]
+</pre>
+<div id="mermaid-tooltip-3" class="mermaidTooltip">
+
+</div>
+<p></p>
+</div>
+</div>
+</div>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="cercles.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Scaning method</figcaption><p></p>
+<p><img src="cercles.png" class="fragment img-fluid figure-img" width="370"></p>
+<p></p><figcaption class="figure-caption">Scanning step</figcaption><p></p>
 </figure>
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="cluster.png" class="img-fluid figure-img"></p>
+<p><img src="cluster.png" class="fragment img-fluid figure-img" width="370"></p>
 <p></p><figcaption class="figure-caption">Cluster detection</figcaption><p></p>
 </figure>
 </div>
@@ -240,8 +221,8 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="curves.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Cluster detection</figcaption><p></p>
+<p><img src="curves.png" class="fragment img-fluid figure-img" width="370"></p>
+<p></p><figcaption class="figure-caption">Curves detected</figcaption><p></p>
 </figure>
 </div>
 </div>
